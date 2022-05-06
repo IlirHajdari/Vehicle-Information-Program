@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Mod2{
+public class vehicleInformation{
 	
 	public static void main (String [] args) {
 		Scanner scanner = new Scanner(System.in);
